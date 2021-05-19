@@ -1,0 +1,35 @@
+{
+  "id": "5a05fe30-03f7-44ae-8132-9aa15bb054d5",
+  "name": "Knowledge.code.code.I want to take a dem_701",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There  won\u0027t be a separate demo class for individual candidate. However you can check our youtube channel for class recordings and you\u0027ll have a fair idea of our teaching methods.YouTube Link: https://www.youtube.com/channel/UCb1GdqUqArXMQ3RS86lqqOw/videos"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

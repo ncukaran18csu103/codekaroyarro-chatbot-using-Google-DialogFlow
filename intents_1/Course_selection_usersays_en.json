@@ -1,0 +1,67 @@
+[
+  {
+    "id": "391b8d8a-7633-4450-96dd-5a45e2128aa6",
+    "data": [
+      {
+        "text": "MobileApp+WebDevelopment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d506e430-e6db-4d99-9215-3d6a323b823e",
+    "data": [
+      {
+        "text": "Programminglanguage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "008943ea-44d7-4f96-b867-f36e08e32f45",
+    "data": [
+      {
+        "text": "MobileAppdevelopment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "146732ee-cc6b-4897-b3a6-77be195da675",
+    "data": [
+      {
+        "text": "Machinelearning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b58acee8-8bc2-410f-b0d6-2e0d6b77a198",
+    "data": [
+      {
+        "text": "Webdevelopment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

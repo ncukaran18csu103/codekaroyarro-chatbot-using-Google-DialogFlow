@@ -1,0 +1,41 @@
+[
+  {
+    "id": "aa97ae80-fc48-4b28-b87c-c1e6f6a02384",
+    "data": [
+      {
+        "text": "YESS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db75f713-8cba-46ed-a3c4-d9fa888c77d5",
+    "data": [
+      {
+        "text": "Yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89f1a82e-de89-49de-88b6-6e38bfb5f334",
+    "data": [
+      {
+        "text": "Yes I have a question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

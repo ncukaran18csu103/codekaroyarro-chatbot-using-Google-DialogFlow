@@ -1,0 +1,51 @@
+{
+  "id": "1088161c-e555-47aa-92d9-87750d9ade02",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://www.google.com/search?q\u003dcodekero+yarro+image\u0026sxsrf\u003dALeKk02jq51dQnShUIzXYX4B44dyO3DkWA:1620535919227\u0026source\u003dlnms\u0026tbm\u003disch\u0026sa\u003dX\u0026ved\u003d2ahUKEwj7qb7e5rvwAhWixDgGHevzCKkQ_AUoAnoECAIQBA\u0026biw\u003d1366\u0026bih\u003d695#imgrc\u003dpixBYE_6b1_G6M",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello Welcome to the Code karo Yarro .                                                                                                         \nFollowing are the courses offer                                                                                                                              \n1.Web development Duration - 3 months HTML , Css ,Java script\n2.Basics of Machine learning Duration - 4 months Hands on experience on supervised and unsupervised \n  learning\n3.Mobile App development\n4.Introduction to programming language Duration-4months Fundamental of Programming in c and c++\n5.Mobile app + Web development Duration - 3 months HTML Css Java script"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

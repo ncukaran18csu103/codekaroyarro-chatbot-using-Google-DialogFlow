@@ -1,0 +1,93 @@
+{
+  "id": "03f79971-c39f-4219-836e-4f6f830eb99a",
+  "name": "Course_selection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eb003221-4a6e-4524-a2fe-8339c34e8ab6",
+          "name": "course_name",
+          "required": true,
+          "dataType": "@course_name",
+          "value": "$course_name",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter course name"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c4be655e-b613-47b2-ab43-79cc932e1470",
+          "name": "cust_name",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$cust_name",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your name"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "dda6d339-6683-4dcf-91bf-fd303e8fe2c6",
+          "name": "cust_email",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$cust_emial",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your mail ID"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We have sent the course syllabus and other relevant details to your e-mail. An email has sent to the sent the support team of the  Code Kero Yarro with your contact information you will be contacted soon.Do you have any more queries?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
