@@ -1,0 +1,180 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "CODEKAROYARRO_chatbot",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "03a9ae0b-6d8e-4eac-ba64-a85077574c4d",
+        "signInRequired": true
+      },
+      {
+        "intentId": "0368a00a-88db-4c21-9c89-349bfaadc935",
+        "signInRequired": true
+      },
+      {
+        "intentId": "028a0c9c-b772-4f26-93ca-945ddb39176d",
+        "signInRequired": true
+      },
+      {
+        "intentId": "03f79971-c39f-4219-836e-4f6f830eb99a",
+        "signInRequired": true
+      },
+      {
+        "intentId": "0261badb-9415-4a81-96b8-9b36f7d85524",
+        "signInRequired": true
+      },
+      {
+        "intentId": "0636477d-bc42-42de-9ebb-b90578322096",
+        "signInRequired": true
+      },
+      {
+        "intentId": "07ba3c02-d481-4f7e-985b-6f79c0b21fff",
+        "signInRequired": true
+      },
+      {
+        "intentId": "069c018f-306c-491d-8af0-bb3ead9db37c",
+        "signInRequired": true
+      },
+      {
+        "intentId": "0216b947-0352-44fc-becc-118014767d26",
+        "signInRequired": false
+      },
+      {
+        "intentId": "078d8929-9c39-445c-96e8-b0ca8fc27c1b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "08c53439-56a0-46ab-901f-2af8ec6280cb",
+        "signInRequired": false
+      },
+      {
+        "intentId": "08aa3838-12a0-48fb-9cd8-a58f5c2d1cad",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0806a59b-06d1-4da5-a714-47d35187deb5",
+        "signInRequired": true
+      },
+      {
+        "intentId": "0abd45d4-4c5f-4e17-81eb-0b7b46ef7ed9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0ae167fd-920b-4ca8-9ed3-54ceac77d84c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0acdb45f-e1f1-4c45-906a-3fe82b26ad14",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0baaef2a-3709-4eb4-bfa1-158301c239d5",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0b3febca-2c08-48c5-a6a4-cc28031167be",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0b178e9c-6376-494b-b7cf-75d013e6a087",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0c056d80-0583-448b-9b96-c1f00b391b17",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0bf91012-f310-4940-b98b-c8d13d496463",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0bf0f5d5-6217-4ff6-95e3-8a44025f59d4",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0acc7388-ac18-469a-9d42-c6967f2527ef",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0c620885-7418-4789-8a4b-078cae8b434f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0d11aeee-a4ff-49d2-984e-68fcef41df06",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0d0e56a9-e6af-4f2f-845d-875afb0abe79",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0c784806-9b1f-481e-9d4d-f6d493f1ec9a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0d7c5338-c896-4b34-8db7-f9bad1baf3d5",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0f4707fe-b021-4aec-81b0-fcb137e1453a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0f0edb97-c82d-45df-a23b-4c878adeae87",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0e312d82-a45d-4bf5-90b1-905298f728e9",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Almaty",
+  "webhook": {
+    "url": "",
+    "username": "",
+    "headers": {},
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2",
+  "secondaryKey": "6dd0d8677179471d99183cb8ff1f13d1",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}
